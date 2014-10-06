@@ -15,8 +15,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.zhoujing.neihan.test.TestActivity"
-            android:label="@string/title_activity_test" >
+            android:name="com.zhoujing.neihan.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
